@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+#app/assets/js/app.js
+#app/assets/css/app.css
+logs/*
+!.gitkeep
+node_modules/
